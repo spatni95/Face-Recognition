@@ -1,0 +1,32 @@
+Williams
+Train F1 Score  0.9253731343283582
+Test F1 Score  0.5806451612903226
+
+Bush
+Train F1 Score  0.9725036179450072
+Test F1 Score  0.6879432624113475
+
+
+
+
+
+
+
+
+
+
+
+saurabh
+williams
+Train F1 Score  0.955223880597015
+Test F1 Score  0.5
+
+
+
+bush
+Train F1 Score  0.961764705882353
+Test F1 Score  0.6643109540636042
+
+
+
+
